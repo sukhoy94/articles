@@ -7,3 +7,7 @@
 ### Common
 
 https://habr.com/ru/company/selectel/blog/250201/ - load balancer
+
+### Docs
+
+https://devdocs.io/laravel~8/
